@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-web",
+  "version": "1.0.0",
+  "description": "Backend del proyecto con Node y Express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
