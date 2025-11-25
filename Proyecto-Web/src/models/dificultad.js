@@ -16,4 +16,4 @@ const DificultadSchema = new mongoose.Schema({
   }
 }, { timestamps: true });
 
-module.exports = mongoose.model('Dificultad', DificultadSchema);
+module.exports = mongoose.model('dificultad', DificultadSchema);

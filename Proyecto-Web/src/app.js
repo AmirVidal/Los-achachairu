@@ -3,9 +3,12 @@ const app = express();
 
 app.use(express.json());
 
-app.use('/api/categorias', require('./routes/categorias'));
-app.use('/api/subcategorias', require('./routes/subcategorias'));
-app.use('/api/dificultades', require('./routes/dificultades'));
-app.use('/api/rangos-edad', require('./routes/rangosEdad'));
+app.use('/api/categorias', require('./routes/categoria'));
+app.use('/api/subcategorias', require('./routes/subcategoria'));
+app.use('/api/dificultades', require('./routes/dificultad'));
+app.use('/api/rangos-edad', require('./routes/rangoEdad'));
 
+app.get('/', (req, res) => {
+    res.send('api funcionando');
+});
 module.exports = app;

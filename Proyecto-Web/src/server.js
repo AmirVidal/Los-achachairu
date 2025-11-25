@@ -1,10 +1,14 @@
-const express = require("express");
-const app = express();
+require('dotenv').config();          // Carga variables
+const app = require('./app');        // Tu app.js
+const connectDB = require('./config/database');  // Conexión a Mongo
 
-app.get("/", (req, res) => {
-  res.send("Hola Mundo Node Express");
+// Conectar a MongoDB
+connectDB();
+
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, () => {
+  console.log(`🚀 Servidor corriendo en http://localhost:${PORT}`);
 });
 
-app.listen(3000, () => {
-  console.log("Servidor escuchando en el puerto 3000");
-});
+
