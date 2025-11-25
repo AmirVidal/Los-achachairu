@@ -21,4 +21,4 @@ const RangoEdadSchema = new mongoose.Schema({
   }
 }, { timestamps: true });
 
-module.exports = mongoose.model('rangoEdad', RangoEdadSchema);
+module.exports = mongoose.model('RangoEdad', RangoEdadSchema);
