@@ -18,7 +18,7 @@ const SubcategoriaSchema = new mongoose.Schema({
   estado: {
     type: Boolean,
     default: true
-  } 
+  }
 }, { timestamps: true });
 
 module.exports = mongoose.model('Subcategoria', SubcategoriaSchema);
