@@ -6,10 +6,6 @@ const DificultadSchema = new mongoose.Schema({
     required: true,
     enum: ['Fácil', 'Medio', 'Difícil']
   },
-  puntajeBase: {
-    type: Number,
-    default: 1
-  },
   estado: {
     type: Boolean,
     default: true
