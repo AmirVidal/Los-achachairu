@@ -18,6 +18,20 @@ exports.obtenerDificultades = async (req, res) => {
   }
 };
 
+exports.obtenerDificultad = async (req, res) => {
+  try {
+    const dif = await Dificultad.findById(req.params.id);
+
+    if (!dif) {
+      return res.status(404).json({ mensaje: "Dificultad no encontrada" });
+    }
+
+    res.json(dif);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
 exports.actualizarDificultad = async (req, res) => {
   try {
     const dif = await Dificultad.findByIdAndUpdate(req.params.id, req.body, { new: true });
@@ -35,3 +49,4 @@ exports.eliminarDificultad = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+

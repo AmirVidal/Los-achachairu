@@ -18,6 +18,20 @@ exports.obtenerRangosEdad = async (req, res) => {
   }
 };
 
+exports.obtenerRangoEdad = async (req, res) => {
+  try {
+    const rango = await RangoEdad.findById(req.params.id);
+
+    if (!rango) {
+      return res.status(404).json({ mensaje: "Rango de edad no encontrado" });
+    }
+
+    res.json(rango);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
+
 exports.actualizarRangoEdad = async (req, res) => {
   try {
     const rango = await RangoEdad.findByIdAndUpdate(req.params.id, req.body, { new: true });
@@ -35,3 +49,4 @@ exports.eliminarRangoEdad = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
