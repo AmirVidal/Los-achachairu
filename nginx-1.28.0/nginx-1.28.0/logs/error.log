@@ -1,8 +1,0 @@
-2025/12/09 22:04:22 [warn] 19972#2236: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
-2025/12/09 22:04:22 [emerg] 19972#2236: unexpected end of file, expecting "}" in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:24
-2025/12/09 22:07:49 [warn] 24860#5652: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
-2025/12/09 22:07:49 [emerg] 24860#5652: cannot load certificate "C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/certs/cert.pem": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/certs/cert.pem, r) error:10000080:BIO routines::no such file)
-2025/12/09 22:09:01 [warn] 528#14860: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
-2025/12/09 22:09:34 [warn] 25232#13820: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
-2025/12/09 22:09:34 [notice] 25232#13820: signal process started
-2025/12/09 22:09:35 [warn] 7876#25288: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14

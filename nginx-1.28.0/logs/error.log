@@ -1,0 +1,189 @@
+2025/12/09 22:04:22 [warn] 19972#2236: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/09 22:04:22 [emerg] 19972#2236: unexpected end of file, expecting "}" in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:24
+2025/12/09 22:07:49 [warn] 24860#5652: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/09 22:07:49 [emerg] 24860#5652: cannot load certificate "C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/certs/cert.pem": BIO_new_file() failed (SSL: error:80000003:system library::No such process:calling fopen(C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/certs/cert.pem, r) error:10000080:BIO routines::no such file)
+2025/12/09 22:09:01 [warn] 528#14860: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/09 22:09:34 [warn] 25232#13820: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/09 22:09:34 [notice] 25232#13820: signal process started
+2025/12/09 22:09:35 [warn] 7876#25288: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\Abado\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:10 [warn] 20304#20072: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:11 [warn] 17236#2312: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:37 [warn] 20612#20616: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:37 [warn] 20688#20692: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:41 [warn] 20792#20796: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:41 [warn] 20864#20868: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:51 [warn] 20636#20644: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:51 [warn] 20332#4064: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:59 [warn] 21084#21080: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:35:59 [warn] 21156#21068: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:42:30 [warn] 10632#10628: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:42:31 [warn] 5432#6124: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:42:35 [warn] 8620#5360: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:42:35 [warn] 9056#9044: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:49 [warn] 11544#3300: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:49 [emerg] 11544#3300: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:49:50 [warn] 5868#12304: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:50 [emerg] 5868#12304: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:49:51 [warn] 12108#11868: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:51 [emerg] 12108#11868: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:49:51 [warn] 8860#12056: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:51 [emerg] 8860#12056: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:49:56 [warn] 13816#13520: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:56 [emerg] 13816#13520: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:49:57 [warn] 12408#12412: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 10:49:57 [emerg] 12408#12412: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 10:51:07 [error] 5432#6324: *4 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 10:51:09 [error] 5432#6324: *4 connect() failed (10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/2.0", upstream: "http://127.0.0.1:3000/favicon.ico", host: "localhost", referrer: "https://localhost/"
+2025/12/11 11:11:23 [error] 5432#6324: *18 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:11:31 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:11:43 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:12:03 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/2.0", upstream: "http://127.0.0.1:3000/.well-known/appspecific/com.chrome.devtools.json", host: "localhost"
+2025/12/11 11:12:26 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/2.0", upstream: "http://127.0.0.1:3000/.well-known/appspecific/com.chrome.devtools.json", host: "localhost"
+2025/12/11 11:12:59 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:12:59 [error] 5432#6324: *22 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/2.0", upstream: "http://127.0.0.1:3000/.well-known/appspecific/com.chrome.devtools.json", host: "localhost"
+2025/12/11 11:15:56 [error] 5432#6324: *33 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:16:27 [warn] 9072#15348: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:16:27 [emerg] 9072#15348: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:16:27 [alert] 8620#5360: worker process 9072 exited with code 1
+2025/12/11 11:16:27 [alert] 8620#5360: could not respawn worker
+2025/12/11 11:16:45 [warn] 4216#3416: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:16:45 [emerg] 4216#3416: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:17:17 [error] 5432#6324: *37 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:17:26 [error] 5432#6324: *40 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:19:40 [error] 5432#6324: *43 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:25:33 [error] 5432#6324: *49 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:26:01 [error] 5432#6324: *52 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:26:43 [error] 5432#6324: *49 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:28:29 [warn] 12640#8364: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:28:29 [emerg] 12640#8364: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:28:30 [warn] 2732#14356: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:28:30 [emerg] 2732#14356: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:28:51 [warn] 15304#7828: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:28:51 [emerg] 15304#7828: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:28:52 [warn] 5960#15144: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:28:52 [emerg] 5960#15144: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:28:52 [warn] 14944#3872: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:28:52 [emerg] 14944#3872: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:29:37 [error] 5432#6324: *58 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/2.0", upstream: "http://127.0.0.1:3000/", host: "localhost"
+2025/12/11 11:31:08 [warn] 1412#15136: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:31:08 [emerg] 1412#15136: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:32:31 [warn] 15200#9736: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:32:31 [emerg] 15200#9736: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:33:50 [warn] 14320#3996: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:33:50 [emerg] 14320#3996: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:35:10 [warn] 14692#8876: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:35:10 [emerg] 14692#8876: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:38:39 [warn] 15272#15100: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\Users\PC\Downloads\nginx-1.28.0\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:38:39 [emerg] 15272#15100: cannot load certificate "C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:\Users\PC\Downloads
+ginx-1.28.0
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:42:37 [warn] 2776#14472: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:42:37 [emerg] 2776#14472: cannot load certificate "C:
+ginx-1.28.0\cert\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:
+ginx-1.28.0\cert\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:44:16 [warn] 7264#9044: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:44:16 [emerg] 7264#9044: cannot load certificate "C:
+ginx-1.28.0\conf\certs\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:
+ginx-1.28.0\conf\certs\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:45:42 [warn] 11628#6716: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:45:42 [emerg] 11628#6716: cannot load certificate "C:
+ginx-1.28.0\conf\certs\cert.pem": BIO_new_file() failed (SSL: error:8000007B:system library::Unknown error:calling fopen(C:
+ginx-1.28.0\conf\certs\cert.pem, r) error:10080002:BIO routines::system lib)
+2025/12/11 11:49:16 [warn] 5824#4036: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:49:36 [warn] 12244#7068: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:49:36 [notice] 12244#7068: signal process started
+2025/12/11 11:49:36 [error] 12244#7068: OpenEvent("Global\ngx_reload_8620") failed (2: El sistema no puede encontrar el archivo especificado)
+2025/12/11 11:50:19 [warn] 3424#3896: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:50:19 [warn] 15272#11448: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:50:35 [warn] 13360#4880: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:50:35 [notice] 13360#4880: signal process started
+2025/12/11 11:50:35 [warn] 8688#8180: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:51:29 [warn] 4632#3132: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:51:30 [warn] 10492#14400: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:52:31 [warn] 15072#12460: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:52:31 [notice] 15072#12460: signal process started
+2025/12/11 11:52:31 [error] 15072#12460: OpenEvent("Global\ngx_stop_4632") failed (2: El sistema no puede encontrar el archivo especificado)
+2025/12/11 11:53:17 [warn] 3484#11356: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:53:17 [warn] 10524#8376: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:55:01 [warn] 6656#13196: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:55:01 [notice] 6656#13196: signal process started
+2025/12/11 11:55:01 [error] 6656#13196: OpenEvent("Global\ngx_reload_3484") failed (5: Acceso denegado)
+2025/12/11 11:56:24 [warn] 13472#13844: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:56:24 [warn] 11336#752: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:56:59 [warn] 8096#13168: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:56:59 [warn] 14656#9532: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:57:30 [warn] 14844#788: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 11:57:30 [notice] 14844#788: signal process started
+2025/12/11 11:57:31 [warn] 2332#11384: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 13:06:17 [warn] 13624#13628: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
+2025/12/11 13:06:17 [warn] 13712#13716: the "listen ... http2" directive is deprecated, use the "http2" directive instead in C:\nginx-1.28.0/conf/nginx.conf:14
